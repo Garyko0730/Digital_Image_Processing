@@ -1,0 +1,38 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: gp018 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\jszx\AppData\Local\Temp\RSP86F7.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/gp018.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\jszx\Desktop\gp018\gp018View.cpp"
+]
+Creating command line "cl.exe @C:\Users\jszx\AppData\Local\Temp\RSP86F7.tmp" 
+Creating temporary file "C:\Users\jszx\AppData\Local\Temp\RSP8708.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/gp018.pdb" /debug /machine:I386 /out:"Debug/gp018.exe" /pdbtype:sept 
+.\Debug\bmp.obj
+.\Debug\gp018.obj
+.\Debug\gp018Doc.obj
+.\Debug\gp018View.obj
+.\Debug\MainFrm.obj
+.\Debug\StdAfx.obj
+.\Debug\gp018.res
+]
+Creating command line "link.exe @C:\Users\jszx\AppData\Local\Temp\RSP8708.tmp"
+<h3>Output Window</h3>
+Compiling...
+gp018View.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+gp018.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
